@@ -1,0 +1,14 @@
+{
+  "name": "untref-scraper",
+  "version": "0.0.1",
+  "description": "Herramienta para exportar información desde el Sistema Online para Alumnos de la UNTreF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Rojo",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^1.3.2"
+  }
+}
